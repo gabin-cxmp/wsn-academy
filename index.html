@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="noindex, nofollow">
+    <meta name="googlebot" content="noindex, nofollow">
+    <title>WSN Academy Library</title>
+    <link
+      rel="preconnect"
+      href="https://fonts.googleapis.com"
+    />
+    <link
+      rel="preconnect"
+      href="https://fonts.gstatic.com"
+      crossorigin
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Antonio:wght@500&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="assets/favicon/32x32.png"
+    />
+    <link rel="stylesheet" href="assets/style/main.css" />
+  </head>
+  <body>
+    <header class="nav-wrapper">
+      <a
+        href="https://wsn-events.com/en/"
+        rel="noopener noreferrer"
+      >
+        <img src="assets/img/logo-wsn.svg" alt="WSN logo" />
+      </a>
+    </header>
+
+    <main class="library-page">
+      <section class="library-header">
+        <p class="library-kicker">WSN Academy</p>
+        <h1 class="library-title">Welcome to the WSN Academy Library</h1>
+        <p class="library-intro">
+          Discover a curated selection of WSN Academy masterclasses designed to
+          support emerging brands, retailers and project leaders. Browse by
+          theme, sort by date and download the slides in the language that
+          works best for you.
+        </p>
+      </section>
+
+      <section aria-label="Filters and search" class="library-filters">
+        <div class="library-controls">
+          <div class="library-controls_left">
+            <div class="library-search">
+              <label class="hidden" for="searchInput">Search masterclasses</label>
+              <input
+                id="searchInput"
+                type="search"
+                placeholder="Search by title or speakers…"
+                autocomplete="off"
+              />
+            </div>
+          </div>
+
+          <div class="library-controls_right">
+            <label>
+              <span class="hidden">Filter by theme</span>
+              <select id="themeFilter" class="library-select">
+                <option value="all">All themes</option>
+              </select>
+            </label>
+
+            <label>
+              <span class="hidden">Sort by date</span>
+              <select id="sortOrder" class="library-select">
+                <option value="newest">Newest first</option>
+                <option value="oldest">Oldest first</option>
+              </select>
+            </label>
+          </div>
+        </div>
+
+        <p id="resultsCounter" class="library-results-counter"></p>
+      </section>
+
+      <section aria-label="WSN Academy masterclasses">
+        <ul id="libraryList" class="library-grid"></ul>
+
+        <p id="noResults" class="library-empty">
+          No masterclasses match your search. Try adjusting your filters or
+          keywords.
+        </p>
+
+        <div class="library-show-more-wrapper">
+          <button
+            id="showMoreBtn"
+            type="button"
+            class="secondary-button library-show-more-btn"
+          >
+            Show more
+          </button>
+        </div>
+      </section>
+    </main>
+
+    <footer></footer>
+
+    <script>
+      window.LIBRARY_LANG = 'en';
+    </script>
+    <script src="assets/js/constants.js"></script>
+    <script src="assets/js/app.js"></script>
+  </body>
+</html>
+
+

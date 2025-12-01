@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="noindex, nofollow">
+    <meta name="googlebot" content="noindex, nofollow">
+    <title>Bibliothèque WSN Academy</title>
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="assets/favicon/32x32.png"
+    />
+    <link
+      rel="preconnect"
+      href="https://fonts.googleapis.com"
+    />
+    <link
+      rel="preconnect"
+      href="https://fonts.gstatic.com"
+      crossorigin
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Antonio:wght@500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="assets/style/main.css" />
+  </head>
+  <body>
+    <header class="nav-wrapper">
+      <a
+        href="https://wsn-events.com/"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <img src="assets/img/logo-wsn.svg" alt="WSN logo" />
+      </a>
+    </header>
+
+    <main class="library-page">
+      <section class="library-header">
+        <p class="library-kicker">WSN Academy</p>
+        <h1 class="library-title">Bienvenue dans la bibliothèque WSN Academy</h1>
+        <p class="library-intro">
+          Découvrez notre bibliothèque de ressources issues des masterclasses WSN
+          Academy — en accès libre pour accompagner les marques émergentes, les
+          détaillants et les porteurs de projet dans leur développement.
+        </p>
+      </section>
+
+      <section aria-label="Filtres et recherche" class="library-filters">
+        <div class="library-controls">
+          <div class="library-controls_left">
+            <div class="library-search">
+              <label class="hidden" for="searchInput">Rechercher une masterclass</label>
+              <input
+                id="searchInput"
+                type="search"
+                placeholder="Rechercher par titre ou intervenant…"
+                autocomplete="off"
+              />
+            </div>
+          </div>
+
+          <div class="library-controls_right">
+            <label>
+              <span class="hidden">Filtrer par thème</span>
+              <select id="themeFilter" class="library-select">
+                <option value="all">Tous les thèmes</option>
+              </select>
+            </label>
+
+            <label>
+              <span class="hidden">Trier par date</span>
+              <select id="sortOrder" class="library-select">
+                <option value="newest">Du plus récent au plus ancien</option>
+                <option value="oldest">Du plus ancien au plus récent</option>
+              </select>
+            </label>
+          </div>
+        </div>
+
+        <p id="resultsCounter" class="library-results-counter"></p>
+      </section>
+
+      <section aria-label="Masterclasses WSN Academy">
+        <ul id="libraryList" class="library-grid"></ul>
+
+        <p id="noResults" class="library-empty">
+          Aucune masterclass ne correspond à votre recherche. Modifiez vos filtres
+          ou vos mots-clés.
+        </p>
+
+        <div class="library-show-more-wrapper">
+          <button
+            id="showMoreBtn"
+            type="button"
+            class="secondary-button library-show-more-btn"
+          >
+            Voir plus
+          </button>
+        </div>
+      </section>
+    </main>
+
+    <footer></footer>
+
+    <script>
+      window.LIBRARY_LANG = 'fr';
+    </script>
+    <script src="assets/js/constants.js"></script>
+    <script src="assets/js/app.js"></script>
+  </body>
+</html>
+
+
