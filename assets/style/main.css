@@ -930,8 +930,8 @@ footer {
   background: linear-gradient(
     180deg,
     rgba(0, 0, 0, 0.0) 0%,
-    rgba(0, 0, 0, 0.35) 50%,
-    rgba(0, 0, 0, 0.6) 100%
+    rgba(0, 0, 0, 0.55) 50%,
+    rgba(0, 0, 0, 0.7) 100%
   );
   pointer-events: none;
 }
