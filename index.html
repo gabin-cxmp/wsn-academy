@@ -1,6 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-MBFTSZ9B');</script>
+  <!-- End Google Tag Manager -->
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="robots" content="noindex, nofollow">
@@ -28,6 +35,10 @@
     <link rel="stylesheet" href="assets/style/main.css" />
   </head>
   <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MBFTSZ9B"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
     <header class="nav-wrapper">
       <a
         href="https://wsn-events.com/en/"
@@ -35,17 +46,17 @@
       >
         <img src="assets/img/logo-wsn.svg" alt="WSN logo" />
       </a>
+      <div id="switch-lang">
+        <a title="fr" class="lang_link" href="../fr.html">FR</a>
+        <a title="en" class="lang_link" href="../index.html">EN</a>
+      </div>
     </header>
 
     <main class="library-page">
       <section class="library-header">
-        <p class="library-kicker">WSN Academy</p>
         <h1 class="library-title">Welcome to the WSN Academy Library</h1>
         <p class="library-intro">
-          Discover a curated selection of WSN Academy masterclasses designed to
-          support emerging brands, retailers and project leaders. Browse by
-          theme, sort by date and download the slides in the language that
-          works best for you.
+          Discover our library of resources from WSN Academy masterclasses — available free of charge to support emerging fashion brands, retailers and project managers
         </p>
       </section>
 
@@ -64,20 +75,45 @@
           </div>
 
           <div class="library-controls_right">
-            <label>
+            <div class="library-dropdown" data-dropdown="theme">
               <span class="hidden">Filter by theme</span>
-              <select id="themeFilter" class="library-select">
-                <option value="all">All themes</option>
-              </select>
-            </label>
+              <button
+                type="button"
+                class="library-dropdown_trigger"
+                aria-haspopup="listbox"
+                aria-expanded="false"
+              >
+                <span class="library-dropdown_label" data-dropdown-label
+                  >All themes</span
+                >
+                <img src="assets/img/chevron-down.svg" alt="" aria-hidden="true" />
+              </button>
+              <ul
+                class="library-dropdown_menu"
+                role="listbox"
+                data-dropdown-menu
+              ></ul>
+            </div>
 
-            <label>
+            <div class="library-dropdown" data-dropdown="sort">
               <span class="hidden">Sort by date</span>
-              <select id="sortOrder" class="library-select">
-                <option value="newest">Newest first</option>
-                <option value="oldest">Oldest first</option>
-              </select>
-            </label>
+              <button
+                type="button"
+                class="library-dropdown_trigger"
+                aria-haspopup="listbox"
+                aria-expanded="false"
+              >
+                <span class="library-dropdown_label" data-dropdown-label
+                  >Newest first</span
+                >
+                <img src="assets/img/chevron-down.svg" alt="" aria-hidden="true" />
+              </button>
+              <ul
+                class="library-dropdown_menu"
+                role="listbox"
+                data-dropdown-menu
+              ></ul>
+            </div>
           </div>
         </div>
 
