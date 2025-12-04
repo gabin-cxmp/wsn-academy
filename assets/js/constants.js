@@ -13,8 +13,8 @@ const ACADEMY_ITEMS = [
     themes: ['strategy business', 'communication'],
     imgUrl: '../img/covers/prep-salon.png',
     logos: [],
-    pdfLinkFr: 'assets/pdf/fr/FR-prep-salon.pdf',
-    pdfLinkEn: 'assets/pdf/en/EN-prep-salon.pdf',
+    pdfLinkFr: 'assets/pdf/fr/FR-WSNA_Salon-Ready.pdf',
+    pdfLinkEn: 'assets/pdf/en/EN-WSNA_Salon-Ready.pdf',
   },
   {
     id: 2,
@@ -26,8 +26,8 @@ const ACADEMY_ITEMS = [
     themes: ['strategy business', 'marketing'],
     imgUrl: '../img/covers/visual-merch.png',
     logos: [],
-    pdfLinkFr: 'assets/pdf/fr/FR-visual-merch.pdf',
-    pdfLinkEn: 'assets/pdf/en/EN-visual-merch.pdf',
+    pdfLinkFr: 'assets/pdf/fr/FR-WSNA_Visual-Merch.pdf',
+    pdfLinkEn: 'assets/pdf/en/EN-WSNA_Visual-Merch.pdf',
   },
   {
     id: 3,
@@ -39,8 +39,8 @@ const ACADEMY_ITEMS = [
     themes: ['strategy business', 'marketing'],
     imgUrl: '../img/covers/fashop.png',
     logos: [],
-    pdfLinkFr: 'assets/pdf/fr/FR-FASHOP.pdf',
-    pdfLinkEn: 'assets/pdf/en/EN-FASHOP.pdf',
+    pdfLinkFr: 'assets/pdf/fr/FR-WSNA_Fashop.pdf',
+    pdfLinkEn: 'assets/pdf/en/EN-WSNA_Fashop.pdf',
   },
 ];
 
