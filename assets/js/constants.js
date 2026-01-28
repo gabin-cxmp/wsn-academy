@@ -94,6 +94,19 @@ const ACADEMY_ITEMS = [
     pdfLinkFr: 'assets/pdf/fr/SS FR KATIE NAT - WSN Academy.pptx.pdf',
     pdfLinkEn: 'assets/pdf/en/SS EN BY KATIE NAT - WSN Academy.pptx.pdf',
   },
+  {
+    id: 8,
+    date: '2026-01-18',
+    titleFr: "Imaginez, générez, vendez : l’IA au service des visuels e-commerce",
+    titleEn: "Imagine, generate, sell: AI at the service of e-commerce visuals",
+    subtitleFr: "Présenté par Lea Medioni, COO (Chief of Operation) de Miraggia",
+    subtitleEn: "Presented by Lea Medioni, COO (Chief of Operation) of Miraggia",
+    themes: ['strategy business'],
+    imgUrl: '../img/covers/Miraggia coverphoto',
+    logos: [],
+    pdfLinkFr: 'assets/pdf/fr/SS FR miraggia-wsn_fr.pptx.pdf',
+    pdfLinkEn: 'assets/pdf/en/SS EN miraggia-wsn_en.pptx.pdf',
+  },
 ];
 
 // Expose to the global scope for simple usage in non-module scripts
