@@ -68,6 +68,32 @@ const ACADEMY_ITEMS = [
     pdfLinkFr: 'assets/pdf/fr/SS FR AGATHE ZAJDELA - WSN Academy.pptx.pdf',
     pdfLinkEn: 'assets/pdf/en/SS EN AGATHE ZAJDELA - WSN Academy.pptx.pdf',
   },
+  {
+    id: 6,
+    date: '2026-01-18',
+    titleFr: "Les outils digitaux qui boostent le business des boutiques",
+    titleEn: "Digital tools that boost shop business",
+    subtitleFr: "Présenté par Pages Mode — Thérèse Rietsch ",
+    subtitleEn: "Presented by Pages Mode — Thérèse Rietsch",
+    themes: ['marketing','communication'],
+    imgUrl: '../img/covers/SS FR MASTERCLASS-PM.jpg',
+    logos: [],
+    pdfLinkFr: 'assets/pdf/fr/SS FR MASTERCLASS-PM_compressed.pdf',
+    pdfLinkEn: 'assets/pdf/en/SS EN MASTERCLASS-PM_compressed.pdf',
+  },
+  {
+    id: 7,
+    date: '2026-01-17',
+    titleFr: "Le sens du développement : ce que j’aurais aimé savoir avant d’ouvrir ma deuxième boutique",
+    titleEn: "The meaning of development: what I wish I had known before opening my second shop",
+    subtitleFr: "Présenté par Katie Nat",
+    subtitleEn: "Presented by Katie Nat",
+    themes: ['strategy business','gestion/management'],
+    imgUrl: '../img/covers/Bykatienatjan26',
+    logos: [],
+    pdfLinkFr: 'assets/pdf/fr/SS FR KATIE NAT - WSN Academy.pptx.pdf',
+    pdfLinkEn: 'assets/pdf/en/SS EN BY KATIE NAT - WSN Academy.pptx.pdf',
+  },
 ];
 
 // Expose to the global scope for simple usage in non-module scripts
