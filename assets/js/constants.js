@@ -55,6 +55,19 @@ const ACADEMY_ITEMS = [
     pdfLinkFr: 'assets/pdf/fr/Bawe WSN academy SEPT25 FR.pdf',
     pdfLinkEn: 'assets/pdf/en/Bawe WSN academy SEPT25 EN.pdf',
   },
+   {
+    id: 5,
+    date: '2026-01-17',
+    titleFr: "Lutter efficacement contre la contrefaçon dans la mode",
+    titleEn: "Effectively combating counterfeiting in fashion",
+    subtitleFr: "Présenté par Agathe Zajdela, avocate spécialisée en Propriété Intellectuelle",
+    subtitleEn: "Presented by Agathe Zajdela, Intellectual Property specialist lawyer",
+    themes: ['juridique/legal],
+    imgUrl: '../img/covers/Agathejan26.jpg',
+    logos: [],
+    pdfLinkFr: 'assets/pdf/fr/SS FR AGATHE ZAJDELA - WSN Academy.pptx.pdf',
+    pdfLinkEn: 'assets/pdf/en/SS EN AGATHE ZAJDELA - WSN Academy.pptx.pdf',
+  },
 ];
 
 // Expose to the global scope for simple usage in non-module scripts
