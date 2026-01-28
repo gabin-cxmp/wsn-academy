@@ -62,7 +62,7 @@ const ACADEMY_ITEMS = [
     titleEn: "Effectively combating counterfeiting in fashion",
     subtitleFr: "Présenté par Agathe Zajdela, avocate spécialisée en Propriété Intellectuelle",
     subtitleEn: "Presented by Agathe Zajdela, Intellectual Property specialist lawyer",
-    themes: ['juridique/legal],
+    themes: ['juridique/legal'],
     imgUrl: '../img/covers/Agathejan26.jpg',
     logos: [],
     pdfLinkFr: 'assets/pdf/fr/SS FR AGATHE ZAJDELA - WSN Academy.pptx.pdf',
