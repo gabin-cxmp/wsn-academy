@@ -102,7 +102,7 @@ const ACADEMY_ITEMS = [
     subtitleFr: "Présenté par Lea Medioni, COO (Chief of Operation) de Miraggia",
     subtitleEn: "Presented by Lea Medioni, COO (Chief of Operation) of Miraggia",
     themes: ['strategy business'],
-    imgUrl: '../img/covers/Miraggia coverphoto',
+    imgUrl: '../img/covers/Miraggia coverphoto.jpeg',
     logos: [],
     pdfLinkFr: 'assets/pdf/fr/SS FR miraggia-wsn_fr.pptx.pdf',
     pdfLinkEn: 'assets/pdf/en/SS EN miraggia-wsn_en.pptx.pdf',
