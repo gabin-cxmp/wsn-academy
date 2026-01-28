@@ -42,6 +42,19 @@ const ACADEMY_ITEMS = [
     pdfLinkFr: 'assets/pdf/fr/FR-WSNA_Fashop.pdf',
     pdfLinkEn: 'assets/pdf/en/EN-WSNA_Fashop.pdf',
   },
+   {
+    id: 4,
+    date: '2025-09-06',
+    titleFr: "Au cœur de l'esprit de la génération Z : comportements et engagement des consommateurs",
+    titleEn: "Inside the GenZ mind: consumer behaviours & engagement",
+    subtitleFr: "Présenté par bawe agency, spécialiste créatif en Gen Z et Gen Alpha - 6 septembre 2025",
+    subtitleEn: "Presented by bawe agency, creative specialist in Gen Z and Gen Alpha - 6 September 2025",
+    themes: ['strategy business', 'marketing', 'communication'],
+    imgUrl: '../img/covers/gen Z.jpg',
+    logos: [],
+    pdfLinkFr: 'assets/pdf/fr/Bawe WSN academy SEPT25 FR.pdf',
+    pdfLinkEn: 'assets/pdf/en/Bawe WSN academy SEPT25 EN.pdf',
+  },
 ];
 
 // Expose to the global scope for simple usage in non-module scripts
