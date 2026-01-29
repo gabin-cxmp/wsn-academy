@@ -107,6 +107,19 @@ const ACADEMY_ITEMS = [
     pdfLinkFr: 'assets/pdf/fr/SS FR miraggia-wsn_fr.pptx.pdf',
     pdfLinkEn: 'assets/pdf/en/SS EN miraggia-wsn_en.pptx.pdf',
   },
+  {
+    id: 9,
+    date: '2024-12-09',
+    titleFr: "Optimisez votre stand :Stratégies éprouvées pour attirer les acheteurs aux salons de la mode",
+    titleEn: "Elevate Your Exhibit: Proven Strategies to Attract Buyers at Fashion Trade Shows",
+    subtitleFr: "Présenté par Louise Cartier, co-fondatrice de la WSN Academy",
+    subtitleEn: "Presented by Louise Cartier, co-founder of the WSN Academy",
+    themes: ['strategy business','communication'],
+    imgUrl: '../img/covers/09/12/2024 .jpeg',
+    logos: [],
+    pdfLinkFr: 'assets/pdf/fr/SS FR SUMMARY - Webinar #1 - WSN Academy.pdf.pdf',
+    pdfLinkEn: 'assets/pdf/en/SS EN SUMMARY - Webinar #1 - WSN Academy.pdf.pdf',
+  },
 ];
 
 // Expose to the global scope for simple usage in non-module scripts
