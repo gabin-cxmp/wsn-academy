@@ -89,7 +89,7 @@ const ACADEMY_ITEMS = [
     subtitleFr: "Présenté par Katie Nat",
     subtitleEn: "Presented by Katie Nat",
     themes: ['strategy business','gestion/management'],
-    imgUrl: '../img/covers/Bykatienatjan26',
+    imgUrl: '../img/covers/Bykatienatjan26.png',
     logos: [],
     pdfLinkFr: 'assets/pdf/fr/SS FR KATIE NAT - WSN Academy.pptx.pdf',
     pdfLinkEn: 'assets/pdf/en/SS EN BY KATIE NAT - WSN Academy.pptx.pdf',
