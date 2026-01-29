@@ -76,7 +76,7 @@ const ACADEMY_ITEMS = [
     subtitleFr: "Présenté par Pages Mode — Thérèse Rietsch ",
     subtitleEn: "Presented by Pages Mode — Thérèse Rietsch",
     themes: ['marketing','communication'],
-    imgUrl: '../img/covers/SS FR MASTERCLASS-PM.jpg',
+    imgUrl: '../img/covers/Pagesmodejan26.jpg',
     logos: [],
     pdfLinkFr: 'assets/pdf/fr/SS FR MASTERCLASS-PM_compressed.pdf',
     pdfLinkEn: 'assets/pdf/en/SS EN MASTERCLASS-PM_compressed.pdf',
