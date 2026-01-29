@@ -24,7 +24,7 @@ const ACADEMY_ITEMS = [
     subtitleFr: 'Présenté par Louise Cartier, co-fondatrice de la WSN Academy',
     subtitleEn: 'Presented by Louise Cartier, co-founder of WSN Academy',
     themes: ['strategy business', 'marketing'],
-    imgUrl: '../img/covers/visual merchandising pic.jpeg',
+    imgUrl: '../img/covers/visual merchandisingpicture.jpg',
     logos: [],
     pdfLinkFr: 'assets/pdf/fr/FR-WSNA_Visual-Merch.pdf',
     pdfLinkEn: 'assets/pdf/en/EN-WSNA_Visual-Merch.pdf',
