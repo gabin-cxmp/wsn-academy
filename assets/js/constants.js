@@ -11,7 +11,7 @@ const ACADEMY_ITEMS = [
     subtitleFr: 'Présenté par Nina Zebouloun, co-fondatrice de la WSN Academy',
     subtitleEn: 'Presented by Nina Zebouloun, co-founder of WSN Academy',
     themes: ['strategy business', 'communication'],
-    imgUrl: '../img/covers/prep-salon.png',
+    imgUrl: '../img/covers/exhibitor guide pic.jpeg',
     logos: [],
     pdfLinkFr: 'assets/pdf/fr/FR-WSNA_Salon-Ready.pdf',
     pdfLinkEn: 'assets/pdf/en/EN-WSNA_Salon-Ready.pdf',
