@@ -130,7 +130,7 @@ const ACADEMY_ITEMS = [
     themes: ['strategy business','gestion/management'],
     imgUrl: '../img/covers/Génération Entrepreneurs pic.jpeg',
     logos: [],
-    pdfLinkFr: 'assets/pdf/fr/Génération Entrepreneurs.pdf',
+    pdfLinkFr: 'assets/pdf/fr/Génération Entrepreneurs pic.jpeg',
     pdfLinkEn: 'assets/pdf/en/SS ENGLISH Génération Entrepreneurs.pdf',
   },
   {
