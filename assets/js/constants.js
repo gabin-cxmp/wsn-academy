@@ -120,6 +120,19 @@ const ACADEMY_ITEMS = [
     pdfLinkFr: 'assets/pdf/fr/SS FR WEBINAR BUYERS WSN ACADEMY.pdf',
     pdfLinkEn: 'assets/pdf/en/SS EN WEBINAR BUYERS WSN ACADEMY.pdf',
   },
+  {
+    id: 10,
+    date: '2026-01-17',
+    titleFr: "Génération Entrepreneurs 2026 : le parcours indispensable pour créer sa marque de mode & d’accessoires",
+    titleEn: "Generation Entrepreneurs 2026: the essential path to creating your own fashion & accessories brand",
+    subtitleFr: "Présenté par Emma De Bouchony, Fédération Française du Prêt à Porter Féminin",
+    subtitleEn: "Presented by Emma De Bouchony, Fédération Française du Prêt à Porter Féminin",
+    themes: ['strategy business','gestion/management'],
+    imgUrl: '../img/covers/Génération Entrepreneurs pic.jpeg',
+    logos: [],
+    pdfLinkFr: 'assets/pdf/fr/Génération Entrepreneurs.pdf',
+    pdfLinkEn: 'assets/pdf/en/SS ENGLISH Génération Entrepreneurs.pdf',
+  },
 ];
 
 // Expose to the global scope for simple usage in non-module scripts
