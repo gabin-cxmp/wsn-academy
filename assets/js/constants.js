@@ -133,6 +133,19 @@ const ACADEMY_ITEMS = [
     pdfLinkFr: 'assets/pdf/fr/Génération Entrepreneurs.pdf',
     pdfLinkEn: 'assets/pdf/en/SS ENGLISH Génération Entrepreneurs.pdf',
   },
+  {
+    id: 11,
+    date: '2026-01-18',
+    titleFr: "Réussir sa communication photo & vidéo : conseils, IA et pièges à éviter",
+    titleEn: "Mastering photo and video communication: tips, AI, and pitfalls to avoid",
+    subtitleFr: "Présenté par Jean Philippe Carré Mattei et Philippe Boivineau, Amap Production",
+    subtitleEn: "Presented by Jean Philippe Carré Mattei and Philippe Boivineau, Amap Production",
+    themes: ['marketing','communication'],
+    imgUrl: '../img/covers/Amap pic.jpeg',
+    logos: [],
+    pdfLinkFr: 'assets/pdf/fr/SS FR AMAP WSN Academy - by Amap production .pdf',
+    pdfLinkEn: 'assets/pdf/en/SS EN AMAP WSN Academy - by Amap production .pdf',
+  },
 ];
 
 // Expose to the global scope for simple usage in non-module scripts
