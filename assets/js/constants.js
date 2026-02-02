@@ -128,9 +128,9 @@ const ACADEMY_ITEMS = [
     subtitleFr: "Présenté par Emma De Bouchony, Fédération Française du Prêt à Porter Féminin",
     subtitleEn: "Presented by Emma De Bouchony, Fédération Française du Prêt à Porter Féminin",
     themes: ['strategy business','gestion/management'],
-    imgUrl: '../img/covers/Génération Entrepreneurs pic.jpeg',
+    imgUrl: '../img/covers/Generation Entrepreneurs pic.jpeg',
     logos: [],
-    pdfLinkFr: 'assets/pdf/fr/Generation Entrepreneurs pic.jpeg',
+    pdfLinkFr: 'assets/pdf/fr/Génération Entrepreneurs.pdf',
     pdfLinkEn: 'assets/pdf/en/SS ENGLISH Génération Entrepreneurs.pdf',
   },
   {
