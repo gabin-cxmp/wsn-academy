@@ -146,6 +146,19 @@ const ACADEMY_ITEMS = [
     pdfLinkFr: 'assets/pdf/fr/SS FR AMAP WSN Academy - by Amap production .pdf',
     pdfLinkEn: 'assets/pdf/en/SS EN AMAP WSN Academy - by Amap production .pdf',
   },
+  {
+    id: 11,
+    date: '2025-09-08',
+    titleFr: "Financer son projet : quelles solutions de financement",
+    titleEn: "Financing your project: what financing solutions are available",
+    subtitleFr: "Présenté par CEFIN, Fabrice Pedro-Rousselin",
+    subtitleEn: "Presented by CEFIN, Fabrice Pedro-Rousselin",
+    themes: ['strategy business','gestion/management','production/sourcing'],
+    imgUrl: '../img/covers/Financer la Mode pic.jpeg',
+    logos: [],
+    pdfLinkFr: 'assets/pdf/fr/SS FR Financer la Mode.pdf',
+    pdfLinkEn: 'assets/pdf/en/SS EN Financer la Mode.pdf',
+  },
 ];
 
 // Expose to the global scope for simple usage in non-module scripts
