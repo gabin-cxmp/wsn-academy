@@ -147,7 +147,7 @@ const ACADEMY_ITEMS = [
     pdfLinkEn: 'assets/pdf/en/SS EN AMAP WSN Academy - by Amap production .pdf',
   },
   {
-    id: 11,
+    id: 12,
     date: '2025-09-08',
     titleFr: "Financer son projet : quelles solutions de financement",
     titleEn: "Financing your project: what financing solutions are available",
@@ -158,6 +158,19 @@ const ACADEMY_ITEMS = [
     logos: [],
     pdfLinkFr: 'assets/pdf/fr/SS FR Financer la Mode.pdf',
     pdfLinkEn: 'assets/pdf/en/SS EN Financer la Mode.pdf',
+  },
+   {
+    id: 13,
+    date: '2025-09-07',
+    titleFr: "Construire une marque forte : les clés marketing",
+    titleEn: "Building a strong brand: marketing keys",
+    subtitleFr: "Présenté par Phoenix Consulting, Clémence Sejourné",
+    subtitleEn: "Presented by Phoenix Consulting, Clémence Sejourné",
+    themes: ['strategy business','marketing'],
+    imgUrl: '../img/covers/pic clemence.jpeg',
+    logos: [],
+    pdfLinkFr: 'assets/pdf/fr/SS FR Construire une marque forte _ les clés d'un marketing efficace.pdf',
+    pdfLinkEn: 'assets/pdf/en/SS EN Construire une marque forte _ les clés d'un marketing efficace (1).pdf',
   },
 ];
 
