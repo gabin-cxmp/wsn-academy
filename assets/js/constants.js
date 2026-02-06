@@ -169,8 +169,8 @@ const ACADEMY_ITEMS = [
     themes: ['strategy business','marketing'],
     imgUrl: '../img/covers/pic clemence.jpeg',
     logos: [],
-    pdfLinkFr: 'assets/pdf/fr/SS FR Construire une marque forte _ les clés d'un marketing efficace.pdf',
-    pdfLinkEn: 'assets/pdf/en/SS EN Construire une marque forte _ les clés d'un marketing efficace (1).pdf',
+    pdfLinkFr: "assets/pdf/fr/SS FR Construire une marque forte _ les clés d'un marketing efficace.pdf",
+    pdfLinkEn: "assets/pdf/en/SS EN Construire une marque forte _ les clés d'un marketing efficace (1).pdf",
   },
 ];
 
