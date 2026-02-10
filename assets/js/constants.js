@@ -195,7 +195,7 @@ const ACADEMY_ITEMS = [
     themes: ['strategy business','gestion/management','marketing'],
     imgUrl: '../img/covers/boutique2mode pic.jpeg',
     logos: [],
-    pdfLinkFr: "assets/pdf/fr/SS FR Comment réinventer sa boutique & renforcer son identité (Masterclass).pdf",
+    pdfLinkFr: "assets/pdf/fr/SS FR Comment reinventer sa boutique & renforcer son identite.pdf",
     pdfLinkEn: "assets/pdf/en/SS EN Comment réinventer sa boutique & renforcer son identité (Masterclass).pdf",
   },
 ];
