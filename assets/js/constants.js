@@ -185,6 +185,19 @@ const ACADEMY_ITEMS = [
     pdfLinkFr: "assets/pdf/fr/Bpifrance x WSN Academy.pdf",
     pdfLinkEn: "assets/pdf/en/SS EN Bpifrance x WSN Academy.pdf",
   },
+  {
+    id: 15,
+    date: '2025-09-07',
+    titleFr: "Comment réinventer sa boutique et renforcer son identité avec succès ?",
+    titleEn: "How to successfully reinvent your shop and strengthen its identity?",
+    subtitleFr: "Présenté par Boutique2Mode -Philippe Maurel",
+    subtitleEn: "Presented by Boutique2Mode - Philippe Maurel",
+    themes: ['strategy business','gestion/management','marketing'],
+    imgUrl: '../img/covers/boutique2mode pic.jpeg',
+    logos: [],
+    pdfLinkFr: "assets/pdf/fr/SS FR Comment réinventer sa boutique & renforcer son identité (Masterclass).pdf",
+    pdfLinkEn: "assets/pdf/en/SS EN Comment réinventer sa boutique & renforcer son identité (Masterclass).pdf",
+  },
 ];
 
 // Expose to the global scope for simple usage in non-module scripts
