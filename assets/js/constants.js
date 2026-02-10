@@ -78,7 +78,7 @@ const ACADEMY_ITEMS = [
     themes: ['marketing','communication'],
     imgUrl: '../img/covers/Pagesmodejan26.jpg',
     logos: [],
-    pdfLinkFr: 'assets/pdf/fr/SS FR MASTERCLASS-PM_compressed.pdf',
+    pdfLinkFr: 'assets/pdf/fr/MASTERCLASS-PM.pdf',
     pdfLinkEn: 'assets/pdf/en/SS EN MASTERCLASS-PM_compressed.pdf',
   },
   {
