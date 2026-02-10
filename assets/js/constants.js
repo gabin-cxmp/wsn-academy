@@ -172,6 +172,19 @@ const ACADEMY_ITEMS = [
     pdfLinkFr: "assets/pdf/fr/SS FR Construire une marque forte _ les clés d'un marketing efficace.pdf",
     pdfLinkEn: "assets/pdf/en/SS EN Construire une marque forte _ les clés d'un marketing efficace (1).pdf",
   },
+    {
+    id: 14,
+    date: '2026-01-19',
+    titleFr: "Ambitions Internationales : les solutions de Bpifrance pour la réussite des entreprises françaises.",
+    titleEn: "International Ambitions: Bpifrance's solutions for the success of French companies.",
+    subtitleFr: "Présenté par BPIFrance x La French Touch  Marceau DANJON et Inès ENNAIFER",
+    subtitleEn: "Presented by BPIFrance x La French Touch, Marceau DANJON and Inès ENNAIFER",
+    themes: ['strategy business','gestion/management','finance'],
+    imgUrl: '../img/covers/bpiphoto.jpeg',
+    logos: [],
+    pdfLinkFr: "assets/pdf/fr/Bpifrance x WSN Academy.pdf",
+    pdfLinkEn: "assets/pdf/en/SS EN Bpifrance x WSN Academy.pdf",
+  },
 ];
 
 // Expose to the global scope for simple usage in non-module scripts
