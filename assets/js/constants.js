@@ -221,7 +221,7 @@ const ACADEMY_ITEMS = [
     themes: ['strategy business','gestion/management','marketing'],
     imgUrl: '../img/covers/Webinar2.jpeg ',
     logos: [],
-    pdfLinkFr: "assets/pdf/fr/SS FR- FINAL - Webinar #2.pdf",
+    pdfLinkFr: "assets/pdf/fr/SS FR FINAL Webinar 2.pdf",
     pdfLinkEn: "assets/pdf/en/HACK THE Wholesale MODEL  LES ENJEUX DE L’OMNICANALITÉ.pdf",
   },
 ];
