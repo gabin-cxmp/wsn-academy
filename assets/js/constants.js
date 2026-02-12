@@ -198,6 +198,19 @@ const ACADEMY_ITEMS = [
     pdfLinkFr: "assets/pdf/fr/SS FR Comment reinventer sa boutique & renforcer son identite.pdf",
     pdfLinkEn: "assets/pdf/en/SS EN Comment reinventer sa boutique & renforcer son identite.pdf",
   },
+  {
+    id: 16,
+    date: '2026-01-19',
+    titleFr: "Les communautés : l’avenir de la mode française - par la Fédération Française du Prêt à Porter Féminin",
+    titleEn: "Communities: The Future of French Fashion - by the French Federation of Women's Ready-to-Wear",
+    subtitleFr: "Présenté par Fédération Française du Prêt à Porter Féminin- Alexane Spieser",
+    subtitleEn: "Presented by Fédération Française du Prêt à Porter Féminin - Alexane Spieser",
+    themes: ['strategy business'],
+    imgUrl: '../img/covers/community .jpeg',
+    logos: [],
+    pdfLinkFr: "assets/pdf/fr/SS FR Communautes - AS.pdf",
+    pdfLinkEn: "assets/pdf/en/SS EN Communautes - AS.pdf",
+  },
 ];
 
 // Expose to the global scope for simple usage in non-module scripts
