@@ -211,6 +211,19 @@ const ACADEMY_ITEMS = [
     pdfLinkFr: "assets/pdf/fr/SS FR Communautes - AS.pdf",
     pdfLinkEn: "assets/pdf/en/SS EN Communautes - AS.pdf",
   },
+  {
+    id: 17,
+    date: '2024-12-10',
+    titleFr: "CRAQUER Le Modèle Wholesale :LES ENJEUX DE L’OMNICANALITÉ",
+    titleEn: "CRACK THE Wholesale Model: THE CHALLENGES OF OMNICHANNELING",
+    subtitleFr: "Présenté par Fédération Française du Prêt à Porter Féminin",
+    subtitleEn: "Presented by the Fédération Française du Prêt à Porter Féminin",
+    themes: ['strategy business','gestion/management','marketing'],
+    imgUrl: '../img/covers/Webinar2.jpeg ',
+    logos: [],
+    pdfLinkFr: "assets/pdf/fr/SS FR- FINAL - Webinar #2.pdf",
+    pdfLinkEn: "assets/pdf/en/HACK THE Wholesale MODEL  LES ENJEUX DE L’OMNICANALITÉ.pdf",
+  },
 ];
 
 // Expose to the global scope for simple usage in non-module scripts
