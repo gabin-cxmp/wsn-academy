@@ -224,6 +224,19 @@ const ACADEMY_ITEMS = [
     pdfLinkFr: "assets/pdf/fr/SS FR FINAL Webinar 2.pdf",
     pdfLinkEn: "assets/pdf/en/HACK THE Wholesale MODEL  LES ENJEUX DE L’OMNICANALITÉ.pdf",
   },
+  {
+    id: 18,
+    date: '2026-01-19',
+    titleFr: "Le détaillant visionnaire : maîtriser les signaux, les évolutions et la demande des consommateurs",
+    titleEn: "The Trend Forward Retailer: Mastering Signals, Shifts, and Shopper Demand",
+    subtitleFr: "Présenté par FutureSnoops- Robbie Sinclair",
+    subtitleEn: "Présenté par FutureSnoops - Robbie Sinclair",
+    themes: ['strategy business','production/sourcing','marketing'],
+    imgUrl: '../img/covers/futuresnoopspic.jpeg ',
+    logos: [],
+    pdfLinkFr: "assets/pdf/fr/SS FR WSN_FS_Retailer Masterclass.pdf",
+    pdfLinkEn: "assets/pdf/en/SS EN WSN_FS_Retailer Masterclass.pdf",
+  },
 ];
 
 // Expose to the global scope for simple usage in non-module scripts
