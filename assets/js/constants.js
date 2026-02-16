@@ -237,6 +237,19 @@ const ACADEMY_ITEMS = [
     pdfLinkFr: "assets/pdf/fr/SS FR WSN_FS_Retailer Masterclass.pdf",
     pdfLinkEn: "assets/pdf/en/SS EN WSN_FS_Retailer Masterclass.pdf",
   },
+  {
+    id: 19,
+    date: '2025-01-19',
+    titleFr: "Le Persona Marketing à l'ère du Marketing 5.0",
+    titleEn: "The Marketing Persona in the Age of Marketing 5.0",
+    subtitleFr: "Présenté par ESMOD",
+    subtitleEn: "Presented by ESMOD",
+    themes: ['marketing'],
+    imgUrl: '../img/covers/ESMOD PIC.jpeg',
+    logos: [],
+    pdfLinkFr: "assets/pdf/fr/Le persona marketing a l’ere du marketing 5.0 - Veronique Beaumont COO ESMOD International.pdf",
+    pdfLinkEn: "assets/pdf/en/SS EN Le persona marketing a l’ere du marketing 5.0 - Veronique Beaumont COO ESMOD International.pdf",
+  },
 ];
 
 // Expose to the global scope for simple usage in non-module scripts
