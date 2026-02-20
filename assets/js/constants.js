@@ -250,6 +250,19 @@ const ACADEMY_ITEMS = [
     pdfLinkFr: "assets/pdf/fr/Le persona marketing a l’ere du marketing 5.0 - Veronique Beaumont COO ESMOD International.pdf",
     pdfLinkEn: "assets/pdf/en/SS EN Le persona marketing a l’ere du marketing 5.0 - Veronique Beaumont COO ESMOD International.pdf",
   },
+  {
+    id: 20,
+    date: '2025-01-18',
+    titleFr: "Visual merchandising et la règle des 3 ",
+    titleEn: "Visual merchandising and the rule of 3 ",
+    subtitleFr: "Présenter par  Agence Biche- Sophie Edery",
+    subtitleEn: "Presented by Agence Biche - Sophie Edery",
+    themes: ['strategy business'],
+    imgUrl: '../img/covers/BICHEPIC.jpeg',
+    logos: [],
+    pdfLinkFr: "assets/pdf/fr/SS FR Visual merchandising et la règle des 3  le trio gagnant pour booster ses ventes- WSN Academy.pdf",
+    pdfLinkEn: "assets/pdf/en/SS EN Visual merchandising et la règle des 3  le trio gagnant pour booster ses ventes- WSN Academy.pdf",
+  },
 ];
 
 // Expose to the global scope for simple usage in non-module scripts
