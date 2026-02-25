@@ -263,6 +263,19 @@ const ACADEMY_ITEMS = [
     pdfLinkFr: "assets/pdf/fr/SS FR Visual merchandising et la règle des 3  le trio gagnant pour booster ses ventes- WSN Academy.pdf",
     pdfLinkEn: "assets/pdf/en/SS EN Visual merchandising et la règle des 3  le trio gagnant pour booster ses ventes- WSN Academy.pdf",
   },
+  {
+    id: 21,
+    date: '2025-09-07',
+    titleFr: "S’emparer des enjeux mode de demain : les grands enjeux du prêt-à-porter ",
+    titleEn: "Addressing the fashion challenges of tomorrow: the major issues in ready-to-wear",
+    subtitleFr: "Présenter par la Fédération Française du Prêt à Porter Féminin",
+    subtitleEn: "Presented by la Fédération Française du Prêt à Porter Féminin",
+    themes: ['strategy business'],
+    imgUrl: '../img/covers/FFPAPF PIC.jpeg',
+    logos: [],
+    pdfLinkFr: "assets/pdf/fr/SS FR de slide template + conseils_compressed.pdf",
+    pdfLinkEn: "assets/pdf/en/SS EN de slide template + conseils_compressed.pdf",
+  },
 ];
 
 // Expose to the global scope for simple usage in non-module scripts
