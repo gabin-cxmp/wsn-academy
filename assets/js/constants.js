@@ -274,7 +274,7 @@ const ACADEMY_ITEMS = [
     imgUrl: '../img/covers/FFPAPF PIC.jpeg',
     logos: [],
     pdfLinkFr: "assets/pdf/fr/SS FR de slide template + conseils_compressed.pdf",
-    pdfLinkEn: "assets/pdf/en/SS EN de slide template + conseils_compressed.pdf",
+    pdfLinkEn: "assets/pdf/en/1SS EN de slide template + conseils copy_compressed (1).pdf",
   },
 ];
 
