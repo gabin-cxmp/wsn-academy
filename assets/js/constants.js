@@ -289,19 +289,21 @@ const ACADEMY_ITEMS = [
     pdfLinkFr: "assets/pdf/fr/Livre-Blanc-PM_V3.pdf",
     pdfLinkEn: "assets/pdf/en/White-Paper-PM.pdf",
       },
-  {
+   {
     id: 23,
     date: '2026-07-03',
-    titleFr: "Top 5 des enseignements et stratégies pratiques – De détaillant à détaillant ",
+    titleFr: "Top 5 des enseignements et stratégies pratiques – De détaillant à détaillant",
     titleEn: "Top 5 Insights & Practical Strategies - Retailer to Retailer",
     subtitleFr: "Présenté par le département des relations acheteurs de WSN et la Middle East Chamber of Buyers.",
-    subtitleEn: "Presented by the WSN Buyer Relations Department and the Middle East Chamber of Buyers ",
-    themes: ['strategy business','gestion/management'],
+    subtitleEn: "Presented by the WSN Buyer Relations Department and the Middle East Chamber of Buyers",
+    themes: ['strategy business','marketing'],
     imgUrl: '../img/covers/TOP5pic.png',
     logos: [],
     pdfLinkFr: "assets/pdf/fr/FFFRENCH Top 5 des enseignements et stratégies pratiques De détaillant à détaillant.pdf",
     pdfLinkEn: "assets/pdf/en/Top 5 Insights & Practical Strategies - Retailer to Retailer.pdf",
       },
+  {
+ 
 ];
 
 // Expose to the global scope for simple usage in non-module scripts
