@@ -302,7 +302,7 @@ const ACADEMY_ITEMS = [
     pdfLinkFr: "assets/pdf/fr/top-5-enseignements-retailer-to-retailer-fr.pdf",
     pdfLinkEn: "assets/pdf/en/Top 5 Insights & Practical Strategies - Retailer to Retailer.pdf",
       },
-  {
+  
  
 ];
 
