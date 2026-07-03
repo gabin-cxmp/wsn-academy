@@ -299,7 +299,7 @@ const ACADEMY_ITEMS = [
     themes: ['strategy business','marketing'],
     imgUrl: '../img/covers/TOP5pic.png',
     logos: [],
-    pdfLinkFr: "assets/pdf/fr/FFFRENCH Top 5 des enseignements et stratégies pratiques De détaillant à détaillant.pdf",
+    pdfLinkFr: "assets/pdf/fr/FFRENCH Top 5 des enseignements et strategies pratiques De detaillant a detaillant.pdf",
     pdfLinkEn: "assets/pdf/en/Top 5 Insights & Practical Strategies - Retailer to Retailer.pdf",
       },
   {
