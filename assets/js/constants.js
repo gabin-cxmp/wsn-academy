@@ -276,6 +276,32 @@ const ACADEMY_ITEMS = [
     pdfLinkFr: "assets/pdf/fr/SS FR de slide template + conseils_compressed.pdf",
     pdfLinkEn: "assets/pdf/en/1SS EN de slide template + conseils copy_compressed (1).pdf",
   },
+  {
+    id: 22,
+    date: '2026-07-03',
+    titleFr: "TOP 100 DES MARQUES Ce que le classement des recherches PagesMode révèle du marché de la mode ",
+    titleEn: "TOP 100 BRANDS What the PagesMode search ranking reveals about the fashion market.",
+    subtitleFr: "Présenté par Pages Mode ",
+    subtitleEn: "Presented by Pages Mode ",
+    themes: ['strategy business','marketing'],
+    imgUrl: '../img/covers/Pagesmodejuly26.png',
+    logos: [],
+    pdfLinkFr: "assets/pdf/fr/Livre-Blanc-PM_V3.pdf",
+    pdfLinkEn: "assets/pdf/en/White-Paper-PM.pdf",
+      },
+  {
+    id: 23,
+    date: '2026-07-03',
+    titleFr: "Top 5 des enseignements et stratégies pratiques – De détaillant à détaillant ",
+    titleEn: "Top 5 Insights & Practical Strategies - Retailer to Retailer",
+    subtitleFr: "Présenté par le département des relations acheteurs de WSN et la Middle East Chamber of Buyers.",
+    subtitleEn: "Presented by the WSN Buyer Relations Department and the Middle East Chamber of Buyers ",
+    themes: ['strategy business','gestion/management'],
+    imgUrl: '../img/covers/TOP5pic.png',
+    logos: [],
+    pdfLinkFr: "assets/pdf/fr/FR Top 5 des enseignements et stratégies pratiques – De détaillant à détaillant.pdf ",
+    pdfLinkEn: "assets/pdf/en/Top 5 Insights & Practical Strategies - Retailer to Retailer.pdf",
+      },
 ];
 
 // Expose to the global scope for simple usage in non-module scripts
