@@ -310,7 +310,7 @@ const ACADEMY_ITEMS = [
     subtitleFr: "Présenté par Utopia- Mathéo Polatian &Matthis Dessus",
     subtitleEn: "Presented by Utopia- Mathéo Polatian &Matthis Dessus",
     themes: ['marketing'],
-    imgUrl: '../img/covers/ImageUtopia.png',
+    imgUrl: '../img/covers/ImageUtopia.jpeg',
     logos: [],
     pdfLinkFr: "assets/pdf/fr/Livre blanc FR UTOPIA X WSN ACADEMY.pdf",
     pdfLinkEn: "assets/pdf/en/white paper EN UTOPIA X WSN ACADEMY.pdf",
