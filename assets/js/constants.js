@@ -315,6 +315,7 @@ const ACADEMY_ITEMS = [
     pdfLinkFr: "assets/pdf/fr/Livre blanc FR UTOPIA X WSN ACADEMY.pdf",
     pdfLinkEn: "assets/pdf/en/white paper EN UTOPIA X WSN ACADEMY.pdf",
     },
+  
 ];
 
 // Expose to the global scope for simple usage in non-module scripts
