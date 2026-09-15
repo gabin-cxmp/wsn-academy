@@ -288,7 +288,7 @@ const ACADEMY_ITEMS = [
     logos: [],
     pdfLinkFr: "assets/pdf/fr/Livre-Blanc-PM_V3.pdf",
     pdfLinkEn: "assets/pdf/en/White-Paper-PM.pdf",
-      },
+    },
    {
     id: 23,
     date: '2026-07-03',
@@ -301,7 +301,7 @@ const ACADEMY_ITEMS = [
     logos: [],
     pdfLinkFr: "assets/pdf/fr/top-5-enseignements-retailer-to-retailer-fr.pdf",
     pdfLinkEn: "assets/pdf/en/Top 5 Insights & Practical Strategies - Retailer to Retailer.pdf",
-      },
+    },
   {
     id: 24,
     date: '2026-09-15',
@@ -314,7 +314,7 @@ const ACADEMY_ITEMS = [
     logos: [],
     pdfLinkFr: "assets/pdf/fr/Livre blanc FR UTOPIA X WSN ACADEMY.pdf",
     pdfLinkEn: "assets/pdf/en/white paper EN UTOPIA X WSN ACADEMY.pdf",
-      },
+    },
 ];
 
 // Expose to the global scope for simple usage in non-module scripts
