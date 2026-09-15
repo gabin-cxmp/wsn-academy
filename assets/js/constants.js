@@ -315,6 +315,19 @@ const ACADEMY_ITEMS = [
     pdfLinkFr: "assets/pdf/fr/Livre blanc FR UTOPIA X WSN ACADEMY.pdf",
     pdfLinkEn: "assets/pdf/en/white paper EN UTOPIA X WSN ACADEMY.pdf",
     },
+  {
+    id: 25,
+    date: '2026-09-15',
+    titleFr: "Les grandes transformations de la mode en 2026 S'emparer des enjeux business de la mode",
+    titleEn: "Major Transformations in Fashion in 2026: Tackling Key Business Issues in the Fashion Industry",
+    subtitleFr: "Présenté par Fédération Française du Prêt à Porter Féminin, Alexane Spieser",
+    subtitleEn: "Presented by Fédération Française du Prêt à Porter Féminin, Alexane Spieser",
+    themes: ['strategy business','communication'],
+    imgUrl: '../img/covers/Flair.png',
+    logos: [],
+    pdfLinkFr: "assets/pdf/fr/SS FR de FLAIR #3 - Masterclass.pdf",
+    pdfLinkEn: "assets/pdf/en/SS EN de FLAIR #3 - Masterclass.pdf",
+    },
   
 ];
 
