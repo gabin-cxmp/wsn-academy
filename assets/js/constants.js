@@ -328,6 +328,19 @@ const ACADEMY_ITEMS = [
     pdfLinkFr: "assets/pdf/fr/SS FR de FLAIR #3 - Masterclass.pdf",
     pdfLinkEn: "assets/pdf/en/SS EN de FLAIR #3 - Masterclass.pdf",
     },
+   {
+    id: 26,
+    date: '2026-09-22',
+    titleFr: "Ni opportunité manquée, ni surstock : ajuster sa collection avec la data de tendance marché",
+    titleEn: "Neither missed opportunity nor overstock: adjusting your collection with market trend data",
+    subtitleFr: "Présenté par Heuritech- Tony Pinville",
+    subtitleEn: "Presented by Heuritech- Tony Pinville",
+    themes: ['strategy business','marketing'],
+    imgUrl: '../img/covers/image heuritech.png',
+    logos: [],
+    pdfLinkFr: "assets/pdf/fr/livre blanc heuritech.pptx.pdf",
+    pdfLinkEn: "assets/pdf/en/white paper heuritech  .pdf",
+    },
   
 ];
 
