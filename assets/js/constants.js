@@ -341,7 +341,19 @@ const ACADEMY_ITEMS = [
     pdfLinkFr: "assets/pdf/fr/livre blanc heuritech.pptx.pdf",
     pdfLinkEn: "assets/pdf/en/white paper heuritech  .pdf",
     },
-  
+  {
+    id: 27,
+    date: '2026-10-21',
+    titleFr: "Créer une communauté grâce à la curation : comment réussir dans l’économie de l’expérience",
+    titleEn: "Building Community Through Curation: How to Succeed in the Experience Economy",
+    subtitleFr: "Présenté par JOMO- Ary Abecassis et Franklin Passer  ",
+    subtitleEn: "Presented by JOMO- Ary Abecassis and Franklin Passer  ",
+    themes: ['strategy business','marketing'],
+    imgUrl: '../img/covers/JOMOPICTURE.jpg',
+    logos: [],
+    pdfLinkFr: "assets/pdf/fr/SSFR_JOMO_x_WSN_Academy.pdf",
+    pdfLinkEn: "assets/pdf/en/SSEN_JOMO_x_WSN_Academy.pdf.pdf",
+    },
 ];
 
 // Expose to the global scope for simple usage in non-module scripts
