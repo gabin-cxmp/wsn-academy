@@ -260,8 +260,8 @@ const ACADEMY_ITEMS = [
     themes: ['strategy business'],
     imgUrl: '../img/covers/BICHEPIC.jpeg',
     logos: [],
-    pdfLinkFr: "assets/pdf/fr/SS FR Visual merchandising et la règle des 3  le trio gagnant pour booster ses ventes- WSN Academy.pdf",
-    pdfLinkEn: "assets/pdf/en/SS EN Visual merchandising et la règle des 3  le trio gagnant pour booster ses ventes- WSN Academy.pdf",
+    pdfLinkFr: "assets/pdf/fr/SSFR Visual merchandising et la règle des 3  le trio gagnant pour booster ses ventes- WSN Academy.pdf",
+    pdfLinkEn: "assets/pdf/en/SSEN Visual merchandising et la règle des 3  le trio gagnant pour booster ses ventes- WSN Academy.pdf",
   },
   {
     id: 21,
