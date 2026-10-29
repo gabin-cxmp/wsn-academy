@@ -291,7 +291,7 @@ const ACADEMY_ITEMS = [
     },
    {
     id: 23,
-    date: '2026-07-03',
+    date: '2026-06-10',
     titleFr: "Top 5 des enseignements et stratégies pratiques – De détaillant à détaillant",
     titleEn: "Top 5 Insights & Practical Strategies - Retailer to Retailer",
     subtitleFr: "Présenté par le département des relations acheteurs de WSN et la Middle East Chamber of Buyers.",
@@ -304,7 +304,7 @@ const ACADEMY_ITEMS = [
     },
   {
     id: 24,
-    date: '2026-09-15',
+    date: '2026-09-7',
     titleFr: "Être tendance à l’ère digitale : comment capter l’attention et créer la désirabilité sur les réseaux sociaux ?",
     titleEn: "Staying on-trend in the digital age: how to capture attention and create desirability on social media?",
     subtitleFr: "Présenté par Utopia- Mathéo Polatian &Matthis Dessus",
@@ -317,7 +317,7 @@ const ACADEMY_ITEMS = [
     },
   {
     id: 25,
-    date: '2026-09-15',
+    date: '2026-09-7',
     titleFr: "Les grandes transformations de la mode en 2026 S'emparer des enjeux business de la mode",
     titleEn: "Major Transformations in Fashion in 2026: Tackling Key Business Issues in the Fashion Industry",
     subtitleFr: "Présenté par Fédération Française du Prêt à Porter Féminin, Alexane Spieser",
@@ -330,7 +330,7 @@ const ACADEMY_ITEMS = [
     },
    {
     id: 26,
-    date: '2026-09-22',
+    date: '2026-09-7',
     titleFr: "Ni opportunité manquée, ni surstock : ajuster sa collection avec la data de tendance marché",
     titleEn: "Neither missed opportunity nor overstock: adjusting your collection with market trend data",
     subtitleFr: "Présenté par Heuritech- Tony Pinville",
@@ -343,7 +343,7 @@ const ACADEMY_ITEMS = [
     },
   {
     id: 27,
-    date: '2026-10-21',
+    date: '2026-9-6',
     titleFr: "Créer une communauté grâce à la curation : comment réussir dans l’économie de l’expérience",
     titleEn: "Building Community Through Curation: How to Succeed in the Experience Economy",
     subtitleFr: "Présenté par JOMO- Ary Abecassis et Franklin Passer  ",
