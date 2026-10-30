@@ -325,8 +325,8 @@ const ACADEMY_ITEMS = [
     themes: ['strategy business','communication'],
     imgUrl: '../img/covers/Flair.png',
     logos: [],
-    pdfLinkFr: "assets/pdf/fr/SS FR de FLAIR #3 - Masterclass.pdf",
-    pdfLinkEn: "assets/pdf/en/SS EN de FLAIR #3 - Masterclass.pdf",
+    pdfLinkFr: "assets/pdf/fr/SS FR de FLAIR 3 Masterclass.pdf",
+    pdfLinkEn: "assets/pdf/en/SS EN de FLAIR 3 Masterclass.pdf",
     },
    {
     id: 26,
