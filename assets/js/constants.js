@@ -362,10 +362,10 @@ const ACADEMY_ITEMS = [
     subtitleFr: "Présenté par Anissa Draa-Fjer",
     subtitleEn: "Presented by Anissa Draa-Fjer",
     themes: ['strategy business','gestion/management'],
-    imgUrl: '../img/covers/JOMOPICTURE.jpg',
+    imgUrl: '../img/covers/pic webinar .webp',
     logos: [],
-    pdfLinkFr: "assets/pdf/fr/SSFR_JOMO_x_WSN_Academy.pdf",
-    pdfLinkEn: "assets/pdf/en/SSEN_JOMO_x_WSN_Academy.pdf.pdf",
+    pdfLinkFr: "assets/pdf/fr/SS (FR)Le guide essentiel du nouveau paysage européen de la distribution 2411.pdf",
+    pdfLinkEn: "assets/pdf/en/ss EN The Essential Guide to the New European Retail Landscape2411.pdf",
     },
 ];
 
