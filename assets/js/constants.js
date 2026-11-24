@@ -13,7 +13,7 @@ const ACADEMY_ITEMS = [
     themes: ['strategy business', 'communication'],
     imgUrl: '../img/covers/salon prep webinar image 23 nov.png',
     logos: [],
-    pdfLinkFr: 'assets/pdf/fr/FR Webinaire Prêt pour le salon Le guide ultime de l’exposant – WSN Academy_compressed.pdf',
+    pdfLinkFr: 'assets/pdf/fr/FRENCH Webinaire Pret pour le salon Le guide ultime de l’exposant WSN Academy compressed.pdf',
     pdfLinkEn: 'assets/pdf/en/EN Webinar Salon Ready The Ultimate Exhibitor’s Guide- WSN Academy_compressed.pdf',
   },
   {
