@@ -5,16 +5,16 @@
 const ACADEMY_ITEMS = [
   {
     id: 1,
-    date: '2025-11-24',
+    date: '2025-11-23',
     titleFr: 'Salon Ready : Le guide ultime de l’exposant',
-    titleEn: 'READY FOR THE TRADE SHOW: THE ULTIMATE GUIDE FOR WSN EXHIBITORS',
-    subtitleFr: 'Présenté par Nina Zebouloun, co-fondatrice de la WSN Academy',
-    subtitleEn: 'Presented by Nina Zebouloun, co-founder of WSN Academy',
+    titleEn: 'Salon Ready: The Ultimate Exhibitor’s Guide',
+    subtitleFr: 'Présenté par Natasha Gruza, cheffe de projet à la WSN Academy',
+    subtitleEn: 'Presented by Natasha Gruza, project manager of the WSN Academy',
     themes: ['strategy business', 'communication'],
-    imgUrl: '../img/covers/final Exhibitor guide pic.jpg',
+    imgUrl: '../img/covers/salon prep webinar image 23 nov.png',
     logos: [],
-    pdfLinkFr: 'assets/pdf/fr/FR-WSNA_Salon-Ready.pdf',
-    pdfLinkEn: 'assets/pdf/en/EN-WSNA_Salon-Ready.pdf',
+    pdfLinkFr: 'assets/pdf/fr/FR Webinaire Prêt pour le salon Le guide ultime de l’exposant – WSN Academy_compressed.pdf',
+    pdfLinkEn: 'assets/pdf/en/EN Webinar Salon Ready The Ultimate Exhibitor’s Guide- WSN Academy_compressed.pdf',
   },
   {
     id: 2,
