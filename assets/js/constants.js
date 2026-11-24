@@ -354,6 +354,19 @@ const ACADEMY_ITEMS = [
     pdfLinkFr: "assets/pdf/fr/SSFR_JOMO_x_WSN_Academy.pdf",
     pdfLinkEn: "assets/pdf/en/SSEN_JOMO_x_WSN_Academy.pdf.pdf",
     },
+  {
+    id: 28,
+    date: '2026-11-24',
+    titleFr: "Le guide essentiel du nouveau paysage européen de la distribution",
+    titleEn: "The Essential Guide to the New European Retail Landscape",
+    subtitleFr: "Présenté par Anissa Draa-Fjer",
+    subtitleEn: "Presented by Anissa Draa-Fjer",
+    themes: ['strategy business','gestion/management'],
+    imgUrl: '../img/covers/JOMOPICTURE.jpg',
+    logos: [],
+    pdfLinkFr: "assets/pdf/fr/SSFR_JOMO_x_WSN_Academy.pdf",
+    pdfLinkEn: "assets/pdf/en/SSEN_JOMO_x_WSN_Academy.pdf.pdf",
+    },
 ];
 
 // Expose to the global scope for simple usage in non-module scripts
